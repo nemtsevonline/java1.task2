@@ -8,14 +8,14 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://github.com/nemtsevonline/java1.task2/issues/1
-* https://github.com/nemtsevonline/java1.task2/issues/2
+* [FAIL при корректном номере карты (American Express) в Credit Card Number Validator](https://github.com/nemtsevonline/java1.task2/issues/1)
+* [FAIL при корректном номере карты (Diners Club) в коде Credit Card Number Validator](https://github.com/nemtsevonline/java1.task2/issues/2)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Домашнее задание к занятию «1.1. Введение в Java: JDK, JRE, JVM, IntelliJ IDEA» https://github.com/netology-code/javaqa-homeworks/tree/master/intro
-* Установка IntelliJ IDEA https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md
+* [Домашнее задание к занятию «1.1. Введение в Java: JDK, JRE, JVM, IntelliJ IDEA»](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+* [Установка IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 
 В качестве тестовых данных использовались валидные и невалидные номера карт, валидные сгенерированы на сайте https://creditcardgenerator.in/credit-card-generator/
 
